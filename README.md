@@ -38,3 +38,8 @@
   <img src ="https://github-profile-trophy.vercel.app/?username=multimediapostcards" alt=""/>
 </div
 
+ ### :keyboard: Наиболее используемые языки :
+
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multimediapostcards" alt=""/>
+</div>
