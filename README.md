@@ -18,3 +18,8 @@
 </div>
 
 ###  :knife: Обо мне :
+
+- :large_blue_diamond: Realme developer
+- :large_orange_diamond: 181cm
+- :black_flag: Daewoo Matiz
+
