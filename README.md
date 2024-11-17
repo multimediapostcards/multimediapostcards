@@ -23,3 +23,11 @@
 - :large_orange_diamond: 181cm
 - :black_flag: Daewoo Matiz
 
+###  :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</div>
